@@ -1,0 +1,10 @@
+streamlit
+pandas
+pyyaml
+pillow
+faiss-cpu
+transformers
+torch
+plotly
+numpy
+

@@ -1,0 +1,6 @@
+.env
+data/*.parquet
+data/*.json
+data/*.yaml
+data/*.pkl
+data/*.png
